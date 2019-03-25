@@ -5,3 +5,9 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.news__list{
+    display: flex;
+}
+
+
